@@ -2,5 +2,5 @@
 
 * [前言](README.md)
 * [Stack](stack.md)
-* Queue
+* [Queue](queue.md)
 
